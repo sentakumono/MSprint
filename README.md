@@ -25,11 +25,11 @@ __FAQ__
       
    __How can I use it?__
       Setup is quick and easy in order to be able to use this script! All you need is: 
-      - AutoHotKey.exe downloaded specifically into the hardcoded filepath for the subprocess handler
-      - A couple cool python libraries
-      - A 1920x1080 screen resolution (currently, because I need to not hardcode it)
-      - MS Paint, initialized with at least a 640x480 canvas, fullscreen and organized the way I have it...
-      - A notable lack of dignity
+        - AutoHotKey.exe downloaded specifically into the hardcoded filepath for the subprocess handler
+        - A couple cool python libraries
+        - A 1920x1080 screen resolution (currently, because I need to not hardcode it)
+        - MS Paint, initialized with at least a 640x480 canvas, fullscreen and organized the way I have it...
+        - A notable lack of dignity
       
    __Why?__
       haha.
