@@ -20,18 +20,24 @@ It has the best features:
         - Amounts of detail may be precedented, research is yet to be done
   
 __FAQ__
-    __How was it made?__
+
+__How was it made?__
       Using AutoHotKey scripts and OpenCV functionality, all bundled together in a poorly written python package.
       
-   __How can I use it?__
+__How can I use it?__
       Setup is quick and easy in order to be able to use this script! All you need is: 
-        - AutoHotKey.exe downloaded specifically into the hardcoded filepath for the subprocess handler
-        - A couple cool python libraries
-        - A 1920x1080 screen resolution (currently, because I need to not hardcode it)
-        - MS Paint, initialized with at least a 640x480 canvas, fullscreen and organized the way I have it...
-        - A notable lack of dignity
       
-   __Why?__
+      - AutoHotKey.exe downloaded specifically into the hardcoded filepath for the subprocess handler 
+      
+      - A couple cool python libraries
+      
+      - A 1920x1080 screen resolution (currently, because I need to not hardcode it)
+      
+      - MS Paint, initialized with at least a 640x480 canvas, fullscreen and organized the way I have it...
+      
+      - A notable lack of dignity
+      
+__Why?__
       haha.
       
       
